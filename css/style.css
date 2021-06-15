@@ -1,0 +1,221 @@
+body {
+	font-family: font-family: 'Gothic A1', sans-serif; 
+	font-size: 18px;
+}
+
+body .top-header {
+	font-size: 30px;
+	padding: 15px 0;
+}
+
+header .main-menu {
+	background-color: white;
+}
+
+
+
+
+header .main-menu nav{
+	padding-left:0 ;
+	padding-right: 0;
+}
+
+header .main-menu nav ul{
+	margin:0 auto;
+}
+
+header .main-menu nav ul li{
+	padding:0 20px;
+	text-align:center;
+}
+
+header .main-menu .bar i {
+	padding: 23px 0;
+}
+header .main-menu .search i {
+	padding: 23px 0;
+}
+.slider {
+	position: relative;
+}
+
+
+.slider h1{
+   position: absolute; 
+   top: 200px; 
+   left: 70px; 
+   color: white;
+}
+
+content .orta .resim {
+	margin: 30px 0;
+}
+content .kutu {
+	background-color:black;
+	margin: 30px 0;
+}
+content .kutu p{
+	color:white;
+	text-align:center;
+	padding: 8px;
+}
+
+content hr {
+	color:e7e7e7;
+	margin: 10px 0;
+}
+
+content .tur{
+	border:2px solid #bc7f40;
+	
+}
+content .tur p{
+	color: #bc7f40;
+	font-size:12px;
+	margin:2px;
+	padding: 0px 0px;
+}
+
+content .acıklama1 {
+	font-size:36px;
+	text-align:center;
+	margin:5px 0 0;
+}
+
+content .acıklama2 .gray {
+	color:gray;
+}
+
+content .acıklama2 p{
+	font-size:12px;
+}
+
+
+
+content .secenek1 {
+	border: 1px solid #e7e7e7;
+}
+
+content .secenek1 .image1 {
+	padding-left: 0px;
+}
+content .secenek1 .tur1 {
+	margin: 20px 0 15px;
+}
+content .secenek1 .tur1 p {
+	color:#bc7f40;
+}
+
+content .secenek1 a{
+	color: black;
+	font-size:18px;
+}
+content .secenek1 .yazi1 p{
+	margin: 20px 0;
+	font-size:16px;
+	color: #5a5a5a;
+}
+
+
+content .secenek2 {
+	border: 1px solid #e7e7e7;
+	margin: 30px 0;
+}
+
+content .secenek2 .image2 {
+	padding-left: 0px;
+}
+content .secenek2 .tur2 {
+	margin: 20px 0 15px;
+}
+content .secenek2 .tur2 p {
+	color:#bc7f40;
+}
+
+content .secenek2 a{
+	color: black;
+	font-size:18px;
+}
+content .secenek2 .yazi2 p{
+	margin: 20px 0;
+	font-size:16px;
+	color: #5a5a5a;
+}
+
+content .secenek3 {
+	border: 1px solid #e7e7e7;
+	margin: 30px 0;
+}
+
+content .secenek3 .image3 {
+	padding-left: 0px;
+}
+content .secenek3 .tur3 {
+	margin: 20px 0 15px;
+}
+content .secenek3 .tur3 p {
+	color:#bc7f40;
+}
+
+content .secenek3 a{
+	color: black;
+	font-size:18px;
+}
+content .secenek3 .yazi3 p{
+	margin: 20px 0;
+	font-size:16px;
+	color: #5a5a5a;
+}
+
+content .resimler .resimler1 {
+	padding: 0px;
+}
+
+
+
+content .resimler .resimler2 {
+	padding: 0px;
+}
+
+
+
+content .resimler .resimler3 {
+	padding: 0px;
+}
+
+
+
+content .resimler .resimler4 {
+	padding: 0px;
+}
+
+
+
+footer .top-footer {
+	background-color: #212121;
+	padding: 0 0 30px;
+}
+
+
+footer .top-footer p {
+	color: white;
+	text-align:center;
+	padding: 15px 0 5px;
+}
+footer .top-footer .icons i{
+	margin: 0 25px;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
